@@ -4,9 +4,9 @@
         "https://www.52pojie.cn/forum.php?mod=rss",
         "http://www.ruanyifeng.com/blog/atom.xml",
         "https://feeds.appinn.com/appinns/",
-        "https://www.v2ex.com/index.xml",
+        "https://rsshub.app/zhihu/hotlist",
         "https://rss.nodeseek.com",
-        "https://v2ex.com/feed/tab/play.xml",
+        "https://v2ex.com/feed/tab/tech.xml",
         "https://hostloc.com/forum.php?mod=rss&fid=45&auth=bdb6xmNdzB%252BipK0LdHS6pwmkJbTJbFmeI1GzVtzvjwHwOL8H3faeEgtlAaitoQ"
     ],
     "refresh": 6,
