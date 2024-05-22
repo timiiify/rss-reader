@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>RSS Reader</title>
+  <title>每日一阅</title>
   <meta name="description" content='RSS Reader，一个将订阅信息聚合展示的开源web工具，便于了解近期关注的信息，同时页面数据数据也实现了自动刷新。'>
   <meta name="keywords" content="<< .Keywords >>">
   <meta name="anthor" content="srcrs">
@@ -73,7 +73,7 @@
     <el-container>
       <el-header>
         <h1>
-          RSS Reader
+          每日一阅
           << if gt .AutoUpdatePush 0 >>
             <span v-show="isPc"><br/>{{ countdown }} s</span>
           << end >>
@@ -136,9 +136,6 @@
         </el-row>
       </el-main>
       <el-footer>
-        <el-link href="https://github.com/srcrs/rss-reader" target="_blank">Rss-reader</el-link>
-        <span> | </span>
-        <el-link href="https://github.com/srcrs" target="_blank">By srcrs</el-link>
       </el-footer>
     </el-container>
   </div>
